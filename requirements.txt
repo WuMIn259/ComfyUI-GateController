@@ -1,0 +1,2 @@
+# LoraGate 节点仅依赖 ComfyUI 原生运行环境，无额外依赖
+# 无需执行 pip install -r requirements.txt，直接放入 custom_nodes 即可使用
