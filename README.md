@@ -13,7 +13,7 @@ LoraGate 通断控制器（仅模型）：仅控制模型（MODEL）的 Lora 状
 克隆本仓库：
 bash
 运行
-git clone https://github.com/你的用户名/你的仓库名.git
+git clone https://github.com/WuMIn259/ComfyUI-GateController
 重启 ComfyUI
 
 使用说明：
